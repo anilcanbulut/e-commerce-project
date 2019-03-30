@@ -1,0 +1,11 @@
+laptop
+5000
+cellphone
+1500
+headphone
+50
+powerbank
+100
+
+
+
